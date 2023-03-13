@@ -2,6 +2,7 @@
 
 - [dbt_linreg](https://github.com/dwreeves/dbt_linreg) - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
 - [CRWA Flagging website](https://github.com/codeforboston/flagging) - Website for the CRWA that runs and manages a predictive model
+- [FastAPI Heroku ML Example](https://github.com/dwreeves/fastapi-heroku-ml-example) - This is a rough template of how I like to build stateful backend FastAPI projects for machine learning applications.
 - [Statelit](https://github.com/dwreeves/Statelit) - Seamlessly hooks Pydantic into Streamlit's `st.session_state`.
 - [Flask-Postgres](https://github.com/dwreeves/Statelit) - Adds CLI options to Flask to manage Postgres
 - [EDHREC Commander 2016 Precon Analysis](https://github.com/dwreeves/EDHREC-C16-Analysis) - I analyzed changes people made to commander precon decks.
