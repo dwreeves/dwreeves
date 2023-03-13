@@ -1,0 +1,15 @@
+## My projects
+
+- [dbt_linreg](https://github.com/dwreeves/dbt_linreg) - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
+- [CRWA Flagging website](https://github.com/codeforboston/flagging) - Website for the CRWA that runs and manages a predictive model
+- [Statelit](https://github.com/dwreeves/Statelit) - Seamlessly hooks Pydantic into Streamlit's `st.session_state`.
+- [Flask-Postgres](https://github.com/dwreeves/Statelit) - Adds CLI options to Flask to manage Postgres
+- [EDHREC Commander 2016 Precon Analysis](https://github.com/dwreeves/EDHREC-C16-Analysis) - I analyzed changes people made to commander precon decks.
+- [EC-391 Final Project](https://github.com/dwreeves/Fall-2015-EC-391-Final-Project) - Senior year monetary economics college project
+
+## Other people's projects (that I've worked on)
+
+- [Airflow](github.com/apache/airflow)
+- [sqladmin](https://github.com/aminalaee/sqladmin)
+- [Rich-Click](https://github.com/ewels/rich-click)
+- [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy)
