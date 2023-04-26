@@ -8,9 +8,10 @@
 - [EDHREC Commander 2016 Precon Analysis](https://github.com/dwreeves/EDHREC-C16-Analysis) - I analyzed changes people made to commander precon decks.
 - [EC-391 Final Project](https://github.com/dwreeves/Fall-2015-EC-391-Final-Project) - Senior year monetary economics college project
 
-## Other people's projects (that I've worked on)
+## Other people's projects (that I've contributed to)
 
-- [Airflow](github.com/apache/airflow)
+- [Apache Airflow](github.com/apache/airflow)
 - [sqladmin](https://github.com/aminalaee/sqladmin)
+- [dbt-core](github.com/dbt-labs/dbt-core)
 - [Rich-Click](https://github.com/ewels/rich-click)
 - [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy)
