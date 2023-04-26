@@ -12,6 +12,6 @@
 
 - [Apache Airflow](github.com/apache/airflow)
 - [sqladmin](https://github.com/aminalaee/sqladmin)
-- [dbt-core](github.com/dbt-labs/dbt-core)
+- [dbt-core](https://github.com/dbt-labs/dbt-core)
 - [Rich-Click](https://github.com/ewels/rich-click)
 - [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy)
