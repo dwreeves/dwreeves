@@ -1,3 +1,14 @@
+<p align="center">
+    <img src="https://dwreeves.github.io/blog/assets/me.jpg" width="200px" alt="Statelit logo">
+</p>
+<p align="center">
+    I work on <em>✨ data thingies ✨</em>
+</p>
+<p align="center">
+    <b><a href="https://dwreeves.github.io/blog/">🥺 Pls read my blog 🥺</a></b>
+</p>
+
+
 ## My projects
 
 - [dbt_linreg](https://github.com/dwreeves/dbt_linreg) - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
