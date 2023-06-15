@@ -22,8 +22,8 @@
 
 ## Other people's projects (that I've contributed to)
 
-- [Apache Airflow](https://github.com/apache/airflow)
-- [sqladmin](https://github.com/aminalaee/sqladmin)
-- [dbt-core](https://github.com/dbt-labs/dbt-core)
-- [Rich-Click](https://github.com/ewels/rich-click)
-- [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy)
+- [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Adwreeves+)
+- [sqladmin](https://github.com/aminalaee/sqladmin/pulls?q=is%3Apr+author%3Adwreeves+)
+- [dbt-core](https://github.com/dbt-labs/dbt-core/pulls?q=is%3Apr+author%3Adwreeves+)
+- [Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+)
+- [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy/pulls?q=is%3Apr+author%3Adwreeves+)
