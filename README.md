@@ -22,7 +22,7 @@
 
 ## Other people's projects (that I've contributed to)
 
-- [Apache Airflow](github.com/apache/airflow)
+- [Apache Airflow](https://github.com/apache/airflow)
 - [sqladmin](https://github.com/aminalaee/sqladmin)
 - [dbt-core](https://github.com/dbt-labs/dbt-core)
 - [Rich-Click](https://github.com/ewels/rich-click)
