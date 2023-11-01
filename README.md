@@ -26,7 +26,7 @@
 
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Adwreeves+)
 - [sqladmin](https://github.com/aminalaee/sqladmin/pulls?q=is%3Apr+author%3Adwreeves+)
-- [Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+)
+- [Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+) (Co-maintainer)
 
 ### A little
 
