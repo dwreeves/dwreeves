@@ -26,12 +26,12 @@
 
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Adwreeves+)
 - [sqladmin](https://github.com/aminalaee/sqladmin/pulls?q=is%3Apr+author%3Adwreeves+)
+- [airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async/pulls?q=is%3Apr+author%3Adwreeves+)
 - [Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+) (Co-maintainer)
 
 ### A little
 
 - [dbt-core](https://github.com/dbt-labs/dbt-core/pulls?q=is%3Apr+author%3Adwreeves+)
 - [dbt-jsonschema](https://github.com/dbt-labs/dbt-jsonschema/pulls?q=is%3Apr+author%3Adwreeves+)
-- [airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async/pulls?q=is%3Apr+author%3Adwreeves+)
 - [astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos/pulls?q=is%3Apr+author%3Adwreeves)
 - [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy/pulls?q=is%3Apr+author%3Adwreeves+)
