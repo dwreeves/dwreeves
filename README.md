@@ -32,7 +32,6 @@
 
 ### A little
 
-- [dbt-core](https://github.com/dbt-labs/dbt-core/pulls?q=is%3Apr+author%3Adwreeves+)
-- [dbt-jsonschema](https://github.com/dbt-labs/dbt-jsonschema/pulls?q=is%3Apr+author%3Adwreeves+)
+- dbt: [dbt-core](https://github.com/dbt-labs/dbt-core/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-jsonschema](https://github.com/dbt-labs/dbt-jsonschema/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-adapters](https://github.com/dbt-labs/dbt-adapters/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-snowflake](https://github.com/dbt-labs/dbt-snowflake/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-duckdb](https://github.com/duckdb/dbt-duckdb/pulls?q=is%3Apr+author%3Adwreeves+)
 - [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy/pulls?q=is%3Apr+author%3Adwreeves+)
 - [uv](https://github.com/astral-sh/uv/pulls?q=is%3Apr+author%3Adwreeves+)
