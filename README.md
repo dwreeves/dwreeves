@@ -13,7 +13,7 @@
 
 ### Active
 
-- **[Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+) (Co-maintainer since 2023)** - Extend `click` CLIs with Rich help text with 1 line of code.
+- **[Rich-Click](https://github.com/ewels/rich-click) (Co-maintainer since 2023)** - Extend `click` CLIs with Rich help text with 1 line of code.
 - **[dbt_linreg](https://github.com/dwreeves/dbt_linreg) (2023)** - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
 - **[CRWA Flagging website](https://github.com/codeforboston/flagging) (2020)** - Website for the CRWA that runs and manages a predictive model
 
