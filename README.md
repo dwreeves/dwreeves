@@ -11,9 +11,15 @@
 
 ## My projects
 
+### Active
+
+- **[Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+) (Co-maintainer since 2023)** - Extend `click` CLIs with Rich help text with 1 line of code.
 - **[dbt_linreg](https://github.com/dwreeves/dbt_linreg) (2023)** - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
-- **[mtgnash](https://github.com/dwreeves/mtgnash) (2023)** - JAX implementation of Nash equilibrium solver for card game metagame + Altair data visualization.
 - **[CRWA Flagging website](https://github.com/codeforboston/flagging) (2020)** - Website for the CRWA that runs and manages a predictive model
+
+### Inactive
+
+- **[mtgnash](https://github.com/dwreeves/mtgnash) (2023)** - JAX implementation of Nash equilibrium solver for card game metagame + Altair data visualization.
 - **[FastAPI Heroku ML Example](https://github.com/dwreeves/fastapi-heroku-ml-example) (2022)** - This is a rough template of how I like to build stateful backend FastAPI projects for machine learning applications.
 - **[Statelit](https://github.com/dwreeves/Statelit) (2022)** - Seamlessly hooks Pydantic into Streamlit's `st.session_state`.
 - **[Flask-Postgres](https://github.com/dwreeves/Flask-Postgres) (2021)** - Adds CLI options to Flask to manage Postgres
@@ -24,7 +30,6 @@
 
 ### A lot
 
-- [Rich-Click](https://github.com/ewels/rich-click/pulls?q=is%3Apr+author%3Adwreeves+) (Co-maintainer)
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Adwreeves+)
 - [sqladmin](https://github.com/aminalaee/sqladmin/pulls?q=is%3Apr+author%3Adwreeves+)
 - [airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async/pulls?q=is%3Apr+author%3Adwreeves+)
