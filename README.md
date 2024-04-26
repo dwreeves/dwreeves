@@ -4,10 +4,6 @@
 <p align="center">
     I work on <em>✨ data thingies ✨</em>
 </p>
-<p align="center">
-    <b><a href="https://dwreeves.github.io/blog/">blog</a></b>
-</p>
-
 
 ## My projects
 
