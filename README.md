@@ -9,7 +9,6 @@
 
 ### Active
 
-- **[rich-click](https://github.com/ewels/rich-click) (Co-maintainer since 2023)** - Extend `click` CLIs with Rich help text with 1 line of code.
 - **[dbt_linreg](https://github.com/dwreeves/dbt_linreg) (2023)** - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
 - **[CRWA Flagging website](https://github.com/codeforboston/flagging) (2020)** - Website for the CRWA that runs and manages a predictive model
 
@@ -26,10 +25,11 @@
 
 ### A lot
 
+- **[rich-click](https://github.com/ewels/rich-click) (Co-maintainer since 2023)** - Extend `click` CLIs with Rich help text with 1 line of code.
+- **[astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos/pulls?q=is%3Apr+author%3Adwreeves) (Co-maintainer since 2024)** - Run dbt in Airflow.
 - [Apache Airflow](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Adwreeves+)
 - [sqladmin](https://github.com/aminalaee/sqladmin/pulls?q=is%3Apr+author%3Adwreeves+)
 - [airflow-provider-fivetran-async](https://github.com/astronomer/airflow-provider-fivetran-async/pulls?q=is%3Apr+author%3Adwreeves+)
-- [astronomer-cosmos](https://github.com/astronomer/astronomer-cosmos/pulls?q=is%3Apr+author%3Adwreeves)
 
 ### A little
 
