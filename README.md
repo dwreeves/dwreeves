@@ -38,4 +38,4 @@
 - [uv](https://github.com/astral-sh/uv/pulls?q=is%3Apr+author%3Adwreeves+)
 
 ```math
-\ce{$\unicode[background-color: coral;]{x0000}$}
+\ce{$\unicode[object-fit: cover; background-size: cover; background-color: coral;]{x0000}$}
