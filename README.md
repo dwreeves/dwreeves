@@ -1,5 +1,3 @@
-\ce{$\unicode[background-color: coral;]{x0000}$}
-
 <p align="center">
     <img src="https://dwreeves.github.io/blog/assets/me.jpg" width="200px" alt="Statelit logo">
 </p>
@@ -38,3 +36,6 @@
 - dbt: [dbt-core](https://github.com/dbt-labs/dbt-core/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-jsonschema](https://github.com/dbt-labs/dbt-jsonschema/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-adapters](https://github.com/dbt-labs/dbt-adapters/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-snowflake](https://github.com/dbt-labs/dbt-snowflake/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-duckdb](https://github.com/duckdb/dbt-duckdb/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-clickhouse](https://github.com/ClickHouse/dbt-clickhouse/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-redshift](https://github.com/dbt-labs/dbt-redshift/pulls?q=is%3Apr+author%3Adwreeves+), [dbt-bigquery](https://github.com/dbt-labs/dbt-bigquery/pulls?q=is%3Apr+author%3Adwreeves+)
 - [Pytest-Flask-SQLAlchemy](https://github.com/jeancochrane/pytest-flask-sqlalchemy/pulls?q=is%3Apr+author%3Adwreeves+)
 - [uv](https://github.com/astral-sh/uv/pulls?q=is%3Apr+author%3Adwreeves+)
+
+```math
+\ce{$\unicode[background-color: coral;]{x0000}$}
