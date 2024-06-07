@@ -38,4 +38,4 @@
 - [uv](https://github.com/astral-sh/uv/pulls?q=is%3Apr+author%3Adwreeves+)
 
 ```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background-color: coral;]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; background-color: #d9f4ff;]{x0000}$}
