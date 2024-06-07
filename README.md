@@ -1,3 +1,5 @@
+\ce{$\unicode[background-color: coral;]{x0000}$}
+
 <p align="center">
     <img src="https://dwreeves.github.io/blog/assets/me.jpg" width="200px" alt="Statelit logo">
 </p>
