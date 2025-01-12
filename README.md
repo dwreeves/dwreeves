@@ -15,7 +15,7 @@
 
 ### Archived
 
-- **[dbt_docs_ghpages_example](https://github.com/dwreeves/dbt_docs_ghpages_example)** - Incredibly simple, automated, idiomatic dbt docs deployment to Github pages.
+- **[dbt_docs_ghpages_example](https://github.com/dwreeves/dbt_docs_ghpages_example) (2023)** - Incredibly simple, automated, idiomatic dbt docs deployment to Github pages.
 - **[mtgnash](https://github.com/dwreeves/mtgnash) (2023)** - JAX implementation of Nash equilibrium solver for card game metagame + Altair data visualization.
 - **[FastAPI Heroku ML Example](https://github.com/dwreeves/fastapi-heroku-ml-example) (2022)** - This is a rough template of how I like to build stateful backend FastAPI projects for machine learning applications.
 - **[Statelit](https://github.com/dwreeves/Statelit) (2022)** - Seamlessly hooks Pydantic into Streamlit's `st.session_state`.
