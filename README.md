@@ -9,6 +9,7 @@
 
 ### Active
 
+- **[AOC 2025](https://github.com/dwreeves/aoc2025) (2025)** - Currently working through Advent of Code 2025 in Rust!
 - **[dbt_pca](https://github.com/dwreeves/dbt_pca) (2025)** - Principal component analysis (PCA) in SQL using dbt.
 - **[dbt_linreg](https://github.com/dwreeves/dbt_linreg) (2023)** - Multiple + multivariate linear regression + ridge regression in SQL using dbt.
 - **[CRWA Flagging website](https://github.com/codeforboston/flagging) (2020)** - Website for the CRWA that runs and manages a predictive model
